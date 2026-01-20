@@ -21,5 +21,20 @@
     <h3>This is a smaller heading</h3>
     <h4>This is an even smaller heading</h4>
     <h5>This is a tiny heading</h5>
+
+
+    <ul>
+        <li>First item in unordered list</li>
+        <li>Second item in unordered list</li>
+        <li>Third item in unordered list</li>
+    </ul>
+
+    <ol>
+        <li><strong>First</strong> item in ordered list</li>
+        <li>Second item in ordered list</li>
+        <li><em>Third</em> item in ordered list</li>
+    </ol>
+
+    <progress value="70" max="100"></progress>
 </body>
 </html>
