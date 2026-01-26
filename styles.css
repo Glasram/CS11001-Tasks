@@ -1,7 +1,13 @@
 body {
   background-color: #f94144;
+  color: turquoise;
   margin: 0;
   font-family: Arial, sans-serif;
+}
+
+p {
+  color: #00ff1a;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 header {
