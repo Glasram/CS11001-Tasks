@@ -1,12 +1,16 @@
 body {
-  background-color: #bcbcbc;
-  color: rgb(0, 0, 0);
+  background-color: #ffffff;
   margin: 0;
   font-family: Arial, sans-serif;
 }
 
+
 col {
   background-color: #90be6d;
+}
+
+h3 {
+  color:#ffffff
 }
 
 p {
