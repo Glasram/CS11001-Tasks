@@ -4,6 +4,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
+main {
+  display: block;
+  gap: 10px;
+  padding: 10px;
+}
 
 col {
   background-color: #90be6d;
