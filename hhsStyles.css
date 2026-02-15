@@ -10,7 +10,18 @@ p {
 
 h1 {
   color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.alert{
+  color: white;
+}
 
+.container-fluid{
+  background-color: #230505;
+  color: white;
+}
 
+a{
+  color: red;
+}
